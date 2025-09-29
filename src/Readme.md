@@ -7,4 +7,13 @@
                     <!-- Data paoyar second section ba way -->
 
 1. 1st e form tag dile form tag er sathe ekta action dibe, setar modde ekta function er maddome
-call kore setar modde data take get kore data paoya jay
+call kore setar modde data take get kore data paoya jay!
+
+                  <!-- Arekta section -->
+
+1. useState use kore sundor vabe field e error dekhano jay, check controlledField.jsx, ei system tar  name ControledFiled Component System
+
+               <!-- ekhane best way to collect input field data -->
+
+1. input field theke data paoyar jonno apatoto amar kache best way mone hoyese amr,
+etar name hosce, 'useRef' use kore, eta tumi Uncontrolled.jsx e paba
